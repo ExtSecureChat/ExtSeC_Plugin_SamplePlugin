@@ -1,0 +1,3 @@
+[submodule "ExtSecureChat_PluginLibrary"]
+	path = ExtSecureChat_PluginLibrary
+	url = https://github.com/ExtSecureChat/PluginLibrary.git
