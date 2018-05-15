@@ -1,4 +1,4 @@
-﻿using ExtSecureChat_PluginLibrary;
+﻿using ExtSecureChat.PluginLibrary;
 using SamplePlugin.Forms;
 using System;
 using System.Collections.Generic;

@@ -1,4 +1,4 @@
-﻿using ExtSecureChat_PluginLibrary;
+﻿using ExtSecureChat.PluginLibrary;
 
 namespace SamplePlugin.Forms
 {
